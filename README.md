@@ -1,4 +1,4 @@
-# PythonResources
+# Python Resources
 
 Open resources for learning and working with the Python programming language.
 
@@ -12,21 +12,21 @@ Open resources for learning and working with the Python programming language.
 
 ## Overview
 
-Python is a vast and very popular general-purpose programming language, with lot's of different materials available for lots of different use cases. This list is focused on curating materials focused on learning the basis of the Python programming language, and general numerical and scientific computing for the purposes of using Python in science.
+Python is a vast and very popular general-purpose programming language. There are tons of available materials that cover lots of different use cases. This list is focused on curating materials focused on learning the basics of the Python programming language (the standard library), as well as the tools available for numerical and scientific computing, all towards the goal of using Python in scientific contexts.
 
 The Python programming language is managed by the [Python Software Foundation](https://www.python.org/psf-landing/), which hosts their own [documentation page](https://docs.python.org/3/), as well as their own guide on [getting started with Python](https://www.python.org/about/gettingstarted/).
 
-In terms of **version**, Python is now firmly on Python3, and we recommend using the more recent 3.X stable release of Python. Note that Python 2 is [effectively retired](https://python3statement.org), and there are many useful updates that make Python3 [worth updating to](https://github.com/arogozhnikov/python3_with_pleasure).
+In terms of **version**, Python is now firmly on Python3, and it is recommended to use the most recent 3.X stable release of Python. Note that Python2 is [effectively retired](https://python3statement.org), and there are many useful updates that make Python3 [worth updating to](https://github.com/arogozhnikov/python3_with_pleasure).
 
-In terms of **ditributions and/or platforms** to manage Python, there are many, but a pretty typical approach is to use the [anaconda distribution](https://www.anaconda.com/distribution/) to get and manage Python, and to use the [Jupyter](https://jupyter.org) ecosystem, including their notebooks, for interactive computing.
+In terms of **distributions and/or platforms** to manage Python, there are many, but a pretty typical approach is to use the [anaconda distribution](https://www.anaconda.com/distribution/) to get and manage Python, and to use the [Jupyter](https://jupyter.org) ecosystem, including their notebooks, for interactive computing.
 
 For more generalized lists of Python resources, there are some other relevant lists:
-- the [awesome python list](https://github.com/vinta/awesome-python) of everything Python
-- the [awesome jupyter list](https://github.com/markusschanta/awesome-jupyter) of everything Jupyter
+- the [awesome Python list](https://github.com/vinta/awesome-python) of everything Python
+- the [awesome Jupyter list](https://github.com/markusschanta/awesome-jupyter) of everything Jupyter
 
 ## Standard Python
 
-The following are openly courses, resources and/or tutorials to learn standard library Python. 
+The following are openly courses, resources and/or tutorials to learn standard library Python.
 
 ### COGS18
 
@@ -37,23 +37,23 @@ COGS18: Introduction to Python is a class for beginners to learn the Python prog
 
 ### Software Carpentry
 
-Software Carpenty creates lessons aimed at scientists, and  has a couple available lessons on the Python programming language. 
+Software Carpentry creates lessons aimed at scientists, and  has a couple available lessons on the Python programming language.
 
 [Homepage](https://software-carpentry.org/) -
 [Python Lesson 1](http://swcarpentry.github.io/python-novice-inflammation/) -
 [Python Lesson 2](http://swcarpentry.github.io/python-novice-gapminder/)
 
-### Codeacademy
+### Codecademy
 
-Codeacademy has an online tutorial for Python, with an online interactive interpreter to try out some code. 
+Codecademy has an online tutorial for Python, with an online interactive interpreter to try out some code.
 
-You may need to sign-up for codeacedemy, but you can do many of the lessons for free.
+You may need to sign-up for codecademy, but you can do many of the lessons for free.
 
 [Homepage](https://www.codecademy.com/)
 
 ### Whirlwind Tour of Python
 
-Whirlwind tour of Python, by Jake VanderPlas, is a quick introduction to the Python programming language, aimed at people who already have a general sense of programming and want to learn the Python syntax. 
+Whirlwind tour of Python, by Jake VanderPlas, is a quick introduction to the Python programming language, aimed at people who already have a general sense of programming and want to learn the Python syntax.
 
 [Homepage](https://www.oreilly.com/library/view/a-whirlwind-tour/9781492037859/) -
 [Textbook](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
@@ -61,51 +61,51 @@ Whirlwind tour of Python, by Jake VanderPlas, is a quick introduction to the Pyt
 
 ### Python Tips: Intermediate Python
 
-Intermediate Python is a collection of materials for learning Python intermediate-level tips and tricks, for after you've learned the basics. 
+Intermediate Python is a collection of materials for learning Python intermediate-level tips and tricks, for after you've learned the basics.
 
-[Homepage](https://book.pythontips.com/en/latest/) - 
+[Homepage](https://book.pythontips.com/en/latest/) -
 [Github](https://github.com/yasoob/intermediatePython)
 
 ## Scientific Python
 
-By scientific python, it's just meant the tools and communities in Python that focus on scientific & data applications. Generally, this is clustered around the [scipy](https://www.scipy.org/about.html) ecosystem. 
+'Scientific Python' refers to the tools and communities in Python that focus on numerical, scientific & data applications. Generally, this is clustered around the [scipy](https://www.scipy.org/about.html) ecosystem.
 
 The core scientific computing tools in Python include:
 - [numpy](https://numpy.org) for numerical computing, and data array management
-- [pandas](https://pandas.pydata.org) for managing and analyzing heterogenous data
+- [pandas](https://pandas.pydata.org) for managing and analyzing heterogeneous data
 - [matplotlib](https://matplotlib.org) for plotting and all kinds of visualizations
 - [scipy](https://www.scipy.org/scipylib/index.html) for general scientific computing
 - [scikit-learn](https://scikit-learn.org/stable) for machine learning
 
-Each of the above tools have their own documentation, user guides and tutorials for learning their respective tools and applications. 
+Each of the above tools have their own documentation, user guides and tutorials for learning their respective tools and applications.
 
 ### Scipy Lectures
 
 The scipy organization has a course for learning the scipy ecosystem.
 
-[Homepage](https://scipy-lectures.org/) - 
+[Homepage](https://scipy-lectures.org/) -
 [Github](https://github.com/scipy-lectures/scipy-lecture-notes)
 
 ### Python Data Science Handbook
 
-The Python Data Science Handbook, by Jake VanderPlas, is an openly available resource for learning data science in Python. 
+The Python Data Science Handbook, by Jake VanderPlas, is an openly available resource for learning data science in Python.
 
-[Homepage](https://jakevdp.github.io/PythonDataScienceHandbook/)
-[Textbook](http://shop.oreilly.com/product/0636920034919.do)
+[Homepage](https://jakevdp.github.io/PythonDataScienceHandbook/) -
+[Textbook](http://shop.oreilly.com/product/0636920034919.do) -
 [Github](https://github.com/jakevdp/PythonDataScienceHandbook)
 
 ### From Python to Numpy
 
-From Python to Numpy, by Nicolas Rougier, is an in depth introduction to numpy, focused on migrating from standard Python approaches to leveraging numpy, through vectorization. 
+From Python to Numpy, by Nicolas Rougier, is an in depth introduction to numpy, focused on migrating from standard Python approaches to leveraging numpy, through vectorization.
 
-[Homepage](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - 
+[Homepage](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) -
 [Github](https://github.com/rougier/from-python-to-numpy)
 
 ### IPython Cookbook
 
 The IPython Cookbook is an openly available collection of numerical computing examples and workflows, in Jupyter notebooks.
 
-[Homepage](https://ipython-books.github.io) - 
+[Homepage](https://ipython-books.github.io) -
 [Github](https://github.com/ipython-books/cookbook-2nd)
 
 ### Data Science in Practice
@@ -116,9 +116,9 @@ Data Science in Practice is a course taught and developed at UC San Diego (as CO
 
 ## Exercises
 
-The following are resources of exercises, or similar, that you can work through for practice with Python. 
+The following are resources of exercises, or similar, that you can work through for practice with Python.
 
-The following are exercises related to standard Python:
+The following are exercises related to standard library Python:
 - [Pytudes](https://github.com/norvig/pytudes) is a collection of practice problems
 - [Python Koans](https://github.com/gregmalcolm/python_koans) is a collection of problems to learn Python
 
@@ -127,7 +127,7 @@ The following are exercises or collections related to numerical or scientific co
 - A collection of [100 numpy exercises](https://github.com/rougier/numpy-100)
 - The [100 days of algorithms](https://github.com/coells/100days) challenge
 - [Project Euler](https://projecteuler.net/) is a collection of math problems
-  
+
 ## Topics
 
 The following are some posts on particular topics in the Python language:
