@@ -121,6 +121,7 @@ The following are resources of exercises, or similar, that you can work through 
 The following are exercises related to standard library Python:
 - [Pytudes](https://github.com/norvig/pytudes) is a collection of practice problems
 - [Python Koans](https://github.com/gregmalcolm/python_koans) is a collection of problems to learn Python
+- [The Python Challenge](http://www.pythonchallenge.com/) is a series of 'riddles' that can be solved using Python
 
 The following are exercises or collections related to numerical or scientific computing with Python:
 - A collection of [algorithms](https://github.com/TheAlgorithms/Python)
