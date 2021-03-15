@@ -23,6 +23,7 @@ In terms of **distributions and/or platforms** to manage Python, there are many,
 For more generalized lists of Python resources, there are some other relevant lists:
 - the [awesome Python list](https://github.com/vinta/awesome-python) of everything Python
 - the [awesome Jupyter list](https://github.com/markusschanta/awesome-jupyter) of everything Jupyter
+- the [awesome scientific Python list](https://github.com/rossant/awesome-scientific-python) of scientific Python
 
 ## Standard Python
 
