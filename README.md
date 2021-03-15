@@ -1,6 +1,6 @@
 # Python Resources
 
-Open resources for learning and working with the Python programming language.
+Open resources for learning and using the Python programming language.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Open resources for learning and working with the Python programming language.
 
 ## Overview
 
-Python is a vast and very popular general-purpose programming language. There are tons of available materials that cover lots of different use cases. This list is focused on curating materials focused on learning the basics of the Python programming language (the standard library), as well as the tools available for numerical and scientific computing, all towards the goal of using Python in scientific contexts.
+Python is a popular general-purpose programming language, with a lot of available materials covering lots of different topics. This list is focused on curating materials focused on learning the basics of the Python programming language (the standard library), as well as the tools available for numerical and scientific computing.
 
 The Python programming language is managed by the [Python Software Foundation](https://www.python.org/psf-landing/), which hosts their own [documentation page](https://docs.python.org/3/), as well as their own guide on [getting started with Python](https://www.python.org/about/gettingstarted/).
 
@@ -26,18 +26,18 @@ For more generalized lists of Python resources, there are some other relevant li
 
 ## Standard Python
 
-The following are openly courses, resources and/or tutorials to learn standard library Python.
+The following are openly available courses, resources and/or tutorials for learning standard library Python.
 
-### COGS18
+### Introductory Python
 
-COGS18: Introduction to Python is a class for beginners to learn the Python programming language, aimed at students in the cognitive science, psychology, and neuroscience to learn relevant programming skills. COGS18 was originally developed in the Cognitive Science department of UC San Diego by Tom Donoghue.
+Introduction to Python is a course taught and developed at UC San Diego (as COGS18) with openly available materials for learning Python.
 
-[Homepage](https://cogs18.github.io/intro/) -
+[Homepage](https://introductorypython.github.io/) -
 [Github](https://github.com/COGS18)
 
 ### Software Carpentry
 
-Software Carpentry creates lessons aimed at scientists, and  has a couple available lessons on the Python programming language.
+Software Carpentry creates lessons aimed at scientists, and has some lessons on the Python programming language.
 
 [Homepage](https://software-carpentry.org/) -
 [Python Lesson 1](http://swcarpentry.github.io/python-novice-inflammation/) -
@@ -59,16 +59,33 @@ Whirlwind tour of Python, by Jake VanderPlas, is a quick introduction to the Pyt
 [Textbook](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
 [Github](https://github.com/jakevdp/WhirlwindTourOfPython)
 
+### Python for Everybody
+
+PY4E, by Dr. Chuck, is a set of free materials, including lessons and videos, for learning to program in Python. 
+
+[Homepage](https://www.py4e.com/) - 
+[Course](https://dabeaz-course.github.io/practical-python/Notes/Contents.html) - 
+[Lessons](https://www.py4e.com/lessons)
+
+### Practical Python Programming
+
+Practical Python Programming, by David Beazley, is an openly available course on the Python programming language.
+
+[Homepage](https://dabeaz-course.github.io/practical-python/) - 
+[Github](https://github.com/dabeaz-course/practical-python)
+
 ### Python Tips: Intermediate Python
 
-Intermediate Python is a collection of materials for learning Python intermediate-level tips and tricks, for after you've learned the basics.
+Intermediate Python is a collection of materials for learning intermediate-level tips and tricks in Python.
 
 [Homepage](https://book.pythontips.com/en/latest/) -
 [Github](https://github.com/yasoob/intermediatePython)
 
 ## Scientific Python
 
-'Scientific Python' refers to the tools and communities in Python that focus on numerical, scientific & data applications. Generally, this is clustered around the [scipy](https://www.scipy.org/about.html) ecosystem.
+'Scientific Python' refers to the tools and communities in Python that focus on numerical, scientific & data applications. 
+
+Generally, this is clustered around the [scipy](https://www.scipy.org/about.html) ecosystem.
 
 The core scientific computing tools in Python include:
 - [numpy](https://numpy.org) for numerical computing, and data array management
@@ -94,9 +111,15 @@ The Python Data Science Handbook, by Jake VanderPlas, is an openly available res
 [Textbook](http://shop.oreilly.com/product/0636920034919.do) -
 [Github](https://github.com/jakevdp/PythonDataScienceHandbook)
 
+### Numerical Tours in Python
+
+Numerical tours in Python is a collection of materials exploring topics within numerical computing, in Python.
+
+[Homepage](https://www.numerical-tours.com/python/)
+
 ### From Python to Numpy
 
-From Python to Numpy, by Nicolas Rougier, is an in depth introduction to numpy, focused on migrating from standard Python approaches to leveraging numpy, through vectorization.
+From Python to Numpy, by Nicolas Rougier, is an in depth introduction to numpy, for those who have some familiarity with the standard library.
 
 [Homepage](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) -
 [Github](https://github.com/rougier/from-python-to-numpy)
@@ -108,31 +131,38 @@ The IPython Cookbook is an openly available collection of numerical computing ex
 [Homepage](https://ipython-books.github.io) -
 [Github](https://github.com/ipython-books/cookbook-2nd)
 
+### Python for Data Analysis
+
+Python for Data Analysis, by Luke Thompson, is an introduction to doing data science in Python, with Jupyer notebooks. 
+
+[Github](https://github.com/cuttlefishh/python-for-data-analysis)
+
 ### Data Science in Practice
 
-Data Science in Practice is a course taught and developed at UC San Diego (as COGS108) with openly available materials for doing data science with Python.
+Data Science in Practice is a course taught and developed at UC San Diego (as COGS108) with openly available materials for learning data science with Python.
 
+[Website](https://datascienceinpractice.github.io/) - 
 [Github](https://github.com/COGS108)
 
 ## Exercises
 
-The following are resources of exercises, or similar, that you can work through for practice with Python.
+The following are collections of exercises to practice using Python.
 
 The following are exercises related to standard library Python:
 - [Pytudes](https://github.com/norvig/pytudes) is a collection of practice problems
-- [Python Koans](https://github.com/gregmalcolm/python_koans) is a collection of problems to learn Python
+- [Python Koans](https://github.com/gregmalcolm/python_koans) is a collection of problems for learning Python
 - [The Python Challenge](http://www.pythonchallenge.com/) is a series of 'riddles' that can be solved using Python
 
-The following are exercises or collections related to numerical or scientific computing with Python:
-- A collection of [algorithms](https://github.com/TheAlgorithms/Python)
+The following are exercises & collections related to scientific computing with Python:
 - A collection of [100 numpy exercises](https://github.com/rougier/numpy-100)
+- A collection of [algorithms](https://github.com/TheAlgorithms/Python)
 - The [100 days of algorithms](https://github.com/coells/100days) challenge
-- [Project Euler](https://projecteuler.net/) is a collection of math problems
+- [Project Euler](https://projecteuler.net/), a collection of math problems
 
 ## Topics
 
 The following are some posts on particular topics in the Python language:
-- A post on working with [lists](https://jeffknupp.com/blog/2018/12/13/how-to-do-just-about-anything-with-python-lists//)
-- An explainer for [list comprehensions](https://www.datacamp.com/community/tutorials/python-list-comprehension)
-- An overview & explainer of [Python Decorators](https://pabloariasal.github.io/python-decorators-from-the-ground-up/)
+- A post on [working with lists](https://jeffknupp.com/blog/2018/12/13/how-to-do-just-about-anything-with-python-lists//)
+- An explainer of [list comprehensions](https://www.datacamp.com/community/tutorials/python-list-comprehension)
+- An overview of [Python Decorators](https://pabloariasal.github.io/python-decorators-from-the-ground-up/)
 - An explainer of [@staticmethod & @classmethod](http://stackabuse.com/pythons-classmethod-and-staticmethod-explained/)
