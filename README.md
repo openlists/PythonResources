@@ -29,6 +29,13 @@ For more generalized lists of Python resources, there are some other relevant li
 
 The following are openly available courses, resources and/or tutorials for learning standard library Python.
 
+### Python Cheatsheet
+
+The Python cheatsheet is a comprehensive collection of notes on standard library Python.
+
+[HomePage](https://gto76.github.io/python-cheatsheet/) - 
+[Github](https://github.com/gto76/python-cheatsheet)
+
 ### Introductory Python
 
 Introduction to Python is a course taught and developed at UC San Diego (as COGS18) with openly available materials for learning Python.
@@ -75,6 +82,12 @@ Practical Python Programming, by David Beazley, is an openly available course on
 [Homepage](https://dabeaz-course.github.io/practical-python/) - 
 [Github](https://github.com/dabeaz-course/practical-python)
 
+### Python in 4 Hours
+
+This video lesson, from freeCodeCamp.Org, is brief course introducing the Python programming language. 
+
+[Video](https://www.youtube.com/watch?v=rfscVS0vtbw)
+
 ### Python Tips: Intermediate Python
 
 Intermediate Python is a collection of materials for learning intermediate-level tips and tricks in Python.
@@ -112,6 +125,13 @@ The Python Data Science Handbook, by Jake VanderPlas, is an openly available res
 [Textbook](http://shop.oreilly.com/product/0636920034919.do) -
 [Github](https://github.com/jakevdp/PythonDataScienceHandbook)
 
+### Data Science in Practice
+
+Data Science in Practice is a course taught and developed at UC San Diego (as COGS108) with openly available materials for learning data science with Python.
+
+[Website](https://datascienceinpractice.github.io/) - 
+[Github](https://github.com/COGS108)
+
 ### Numerical Tours in Python
 
 Numerical tours in Python is a collection of materials exploring topics within numerical computing, in Python.
@@ -138,12 +158,19 @@ Python for Data Analysis, by Luke Thompson, is an introduction to doing data sci
 
 [Github](https://github.com/cuttlefishh/python-for-data-analysis)
 
-### Data Science in Practice
+### University of Michigan Girls Who Code Materials
 
-Data Science in Practice is a course taught and developed at UC San Diego (as COGS108) with openly available materials for learning data science with Python.
+Introductory materials, starting at basic Python and working through numerical computation and data management, using practice notebooks. 
 
-[Website](https://datascienceinpractice.github.io/) - 
-[Github](https://github.com/COGS108)
+[Github](https://github.com/GWC-DCMB/curriculum-notebooks/) - 
+[Paper](https://jose.theoj.org/papers/10.21105/jose.00138)
+
+### Reproducible Data Science with Python Tools and Real-World Data
+
+This online textbook covers data science work in Python, using real-world datasets, related to the COVID-19 pandemic. 
+
+[HomePage](https://valdanchev.github.io/reproducible-data-science-python/intro.html) - 
+[Github](https://github.com/valdanchev/reproducible-data-science-python)
 
 ## Exercises
 
