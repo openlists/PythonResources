@@ -64,7 +64,7 @@ You may need to sign-up for codecademy, but you can do many of the lessons for f
 Whirlwind tour of Python, by Jake VanderPlas, is a quick introduction to the Python programming language, aimed at people who already have a general sense of programming and want to learn the Python syntax.
 
 [Homepage](https://www.oreilly.com/library/view/a-whirlwind-tour/9781492037859/) -
-[Textbook](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
+[Textbook](http://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) - 
 [Github](https://github.com/jakevdp/WhirlwindTourOfPython)
 
 ### Python for Everybody
@@ -134,7 +134,7 @@ Data Science in Practice is a course taught and developed at UC San Diego (as CO
 
 ### Numerical Tours in Python
 
-Numerical tours in Python is a collection of materials exploring topics within numerical computing, in Python.
+Numerical tours in Python is a collection of materials exploring topics within numerical computing.
 
 [Homepage](https://www.numerical-tours.com/python/)
 
@@ -185,11 +185,11 @@ The following are exercises & collections related to scientific computing with P
 - A collection of [100 numpy exercises](https://github.com/rougier/numpy-100)
 - A collection of [algorithms](https://github.com/TheAlgorithms/Python)
 - The [100 days of algorithms](https://github.com/coells/100days) challenge
-- [Project Euler](https://projecteuler.net/), a collection of math problems
+- The [Project Euler](https://projecteuler.net/) collection of math problems
 
 ## Topics
 
-The following are some posts on particular topics in the Python language:
+The following are guides for specific topics in the Python language:
 - A post on [working with lists](https://jeffknupp.com/blog/2018/12/13/how-to-do-just-about-anything-with-python-lists//)
 - An explainer of [list comprehensions](https://www.datacamp.com/community/tutorials/python-list-comprehension)
 - An overview of [Python Decorators](https://pabloariasal.github.io/python-decorators-from-the-ground-up/)
